@@ -16,5 +16,4 @@
              'views/report_view.xml'
              ],
     'installable': True,
-    'application': True
 }
