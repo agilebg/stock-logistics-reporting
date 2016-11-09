@@ -8,6 +8,7 @@
     'summary': "Print stock picking report in xlsx",
     'website': 'http://www.serpentcs.com',
     'author': """Serpent Consulting Services Pvt. Ltd.,
+                Agile Business Group,
                 Odoo Community Association (OCA)""",
     'category': 'Stock',
     'license': 'AGPL-3',
